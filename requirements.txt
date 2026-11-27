@@ -1,5 +1,6 @@
 pandas
-plotly.express
+plotly
 streamlit
 openpyxl
 python-calamin
+express
