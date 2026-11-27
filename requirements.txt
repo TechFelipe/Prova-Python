@@ -2,5 +2,4 @@ pandas
 plotly
 streamlit
 openpyxl
-python-calamin
-express
+python-calamine
